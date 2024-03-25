@@ -7,7 +7,7 @@
 ### клонируем 
 
 
-    git clone https://github.com/se-andrey/baum.git
+    git clone https://github.com/se-andrey/RTC.git
 
 
 ### запуск
